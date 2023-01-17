@@ -4,4 +4,4 @@ A web application that uses Django-REST framework and React to perform user regi
 
 ## How to Run
 1. Install pipenv in a commandline prompt with "pip install pipenv"
-2. Run pipenv with pipenv install shell
+2. Run pipenv with "pipenv install shell"
